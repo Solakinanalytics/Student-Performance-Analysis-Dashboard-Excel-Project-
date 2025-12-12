@@ -28,5 +28,5 @@ This project explores the key factors influencing student performance using Micr
 **Akinleye Oyinkansola Mary**  
 Data Analyst 
 Email: oyinkansolaakinleye05@gmail.com
-LinkedIn: (https://www.linkedin.com/in/akinleye-oyinkansola-)  
-GitHub: solakinanalytics (https://github.com/Solakinanalytics/Student-Performance-Analysis-Dashboard-Excel-Project-/edit/main/README.md)
+LinkedIn: https://www.linkedin.com/in/akinleye-oyinkansola-  
+GitHub: solakinanalytics https://github.com/Solakinanalytics/Student-Performance-Analysis-Dashboard-Excel-Project-/edit/main/README.md
